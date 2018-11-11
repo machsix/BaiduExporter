@@ -58,5 +58,8 @@
     "stylelint-config-sass-guidelines": "^5.2.0",
     "stylelint-order": "^1.0.0",
     "stylelint-scss": "^3.3.1"
+  },
+  "dependencies": {
+    "sign-addon": "^0.3.1"
   }
 }
